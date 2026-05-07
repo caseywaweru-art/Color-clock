@@ -5,7 +5,7 @@ A simple clock display application that displays the current day. This is a simp
 
 ### Installation Requirements
 ```
-git clone 
+git clone https://github.com/caseywaweru-art/Color-clock.git
 npm install
 ```
 
