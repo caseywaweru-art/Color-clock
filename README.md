@@ -1,7 +1,7 @@
 ### By Casey Waweru
 
 ## Description
-A simple clock display application that displays the current day. This is a simple project I am using to experiment and learn react with
+A simple clock application that displays the current date and time. This is a simple project I am using to experiment and learn react with.
 
 ### Installation Requirements
 ```
