@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <p>{format(new Date(), "'Today is a' eeee")}</p>
+      <p>{format(new Date(), "yyyy-MM-dd HH:mm:ss")}</p>
     </>
   )
 }
