@@ -11,6 +11,7 @@ npm install
 
 ## Technologies used
 React
+date-fns
 
 ## Support and contact details
 github.com/caseywaweru-art
